@@ -1,0 +1,10 @@
+{
+  "description": "Manage independent and multi-branch pharmacies with a sophisticated desktop-first app offering sales, inventory, purchasing, transfers, finance, and admin tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
